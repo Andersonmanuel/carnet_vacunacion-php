@@ -1,0 +1,42 @@
+body{
+    margin: 4em;
+
+}
+.tabla-certificado{
+  margin: 4em;
+  border-radius: 3px;
+  box-shadow: 15px 15px 25px #ffffff,
+  -15px -15px 30px #ffffff;
+}
+
+  td{
+    
+    font-weight: bolder;
+    text-align: center;
+  }
+ input{
+   width: 530px;
+   height: 35px;
+   border-radius: 20px;
+   background-color: #edf5f5;
+ }
+ 
+ #sex{
+   width: 210px;
+   height: 35px;
+
+ }
+ #nac{
+   margin-left: 90px;
+   width: 210px;
+   height: 35px;
+
+ }
+ #nacion{
+   margin-left: 290px;
+ }
+ .logo{
+     margin: 4em;
+     margin-left: 300px;
+ }
+ 

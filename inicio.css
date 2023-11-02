@@ -1,0 +1,25 @@
+.tabla-inicio{
+  
+    background-color: white;
+    margin: 5em auto;
+    width: 46%;
+    border-radius: 3px;
+    box-shadow: 15px 15px 25px #ffffff,
+    -15px -15px 30px #ffffff;
+   
+}
+.dosis{
+  font-size: 28px;
+  color: #67FF4F;
+  font-weight: bolder;
+}
+hr {
+    height: 6px;
+    background-color: green;
+  }
+  #radio{
+background-color: #67FF4F;
+color: white;
+font-size: 24px;
+height: 50px;
+}
